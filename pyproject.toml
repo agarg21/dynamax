@@ -71,6 +71,7 @@ test = [
     "coverage",
     "pytest>=3.9",
     "pytest-cov",
+    "pytest-xdist",
     "interrogate>=1.5.0",
     "ipython"
 ]
@@ -94,6 +95,7 @@ dev = [
     "coverage",
     "pytest>=3.9",
     "pytest-cov",
+    "pytest-xdist",
     "interrogate>=1.5.0",
     "ipython"
 ]
